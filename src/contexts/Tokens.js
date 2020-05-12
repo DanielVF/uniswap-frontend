@@ -376,6 +376,12 @@ export const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xe9a5bbe41dc63D555E06746b047d624E3343EA52'
     },
+    '0x8207c1ffc5b6804f6024322ccf34f29c3541ae26': {
+      [NAME]: 'OriginToken',
+      [SYMBOL]: 'OGN',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x48dc4d621c1b9f7ad919daab69100b3a8834458f'
+    },
     '0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44': {
       [NAME]: 'Panvala pan',
       [SYMBOL]: 'PAN',
